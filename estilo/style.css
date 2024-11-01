@@ -37,3 +37,12 @@ section#telefone {
     background: url('../pacote-d013/imagens/frame-iphone.png') no-repeat;
 
 }
+
+    iframe#tela {
+        position: relative;
+        left: 22px;
+        top: 80px;
+        width: 268px;
+        height: 470px;
+        
+    }
